@@ -23,3 +23,4 @@ def my_range(*args):
 
 for i in my_range(80, 40, -4):
     print(i, end = '  ')
+print(type(my_range()ss))
