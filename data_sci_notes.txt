@@ -18,4 +18,17 @@ Credential Manager -> Windows Credentials -> github
 
 $ 
 
+----------------------------------------------------
+mySQL commands
 
+$ show databases;
+
+This will show the set of all the databases present in the current instance
+
+$ show database();
+
+This command will show the database we are currently present in
+
+$ create database ayush_db;
+
+This command will create a database of the name ayush_db in the current instance
