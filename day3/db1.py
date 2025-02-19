@@ -41,6 +41,7 @@ def insert_row():
     connection = connect_db()
     cursor = connection.cursor()
     cursor.execute(query, person)
+    connection.commit()
     cursor.close()
     print('Row created')
     disconnect_db(connection)
