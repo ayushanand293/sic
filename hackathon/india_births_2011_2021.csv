@@ -1,0 +1,201 @@
+Parent Name,Type of Delivery,State of Birth,Hospital,Season,Birth Year,Birth Order
+Parent_23,Assisted Vaginal,Madhya Pradesh,Fortis Hospital,Spring,2016,1
+Parent_1,Assisted Vaginal,Rajasthan,Fortis Hospital,Summer,2019,1
+Parent_13,C-Section,Bihar,Apollo Hospital,Winter,2021,1
+Parent_11,Assisted Vaginal,Bihar,Max Healthcare,Summer,2011,1
+Parent_41,C-Section,Maharashtra,Narayana Health,Winter,2019,1
+Parent_11,Assisted Vaginal,Maharashtra,Narayana Health,Winter,2014,2
+Parent_30,C-Section,Uttar Pradesh,Narayana Health,Summer,2018,1
+Parent_49,Assisted Vaginal,Madhya Pradesh,AIIMS,Spring,2017,1
+Parent_47,C-Section,Bihar,Apollo Hospital,Winter,2012,1
+Parent_23,C-Section,Bihar,Sir Ganga Ram Hospital,Spring,2012,2
+Parent_38,C-Section,Andhra Pradesh,AIIMS,Winter,2016,1
+Parent_9,C-Section,Bihar,Max Healthcare,Winter,2019,1
+Parent_39,Normal,Bihar,Narayana Health,Spring,2011,1
+Parent_48,Assisted Vaginal,Madhya Pradesh,Medanta,Monsoon,2016,1
+Parent_34,Normal,Bihar,Sir Ganga Ram Hospital,Spring,2021,1
+Parent_32,Normal,Maharashtra,AIIMS,Spring,2020,1
+Parent_20,Assisted Vaginal,Karnataka,Narayana Health,Winter,2013,1
+Parent_20,Normal,Rajasthan,Medanta,Winter,2016,2
+Parent_38,C-Section,Gujarat,Manipal Hospital,Monsoon,2012,2
+Parent_28,C-Section,West Bengal,AIIMS,Spring,2014,1
+Parent_7,Assisted Vaginal,Gujarat,Medanta,Winter,2017,1
+Parent_20,Normal,Andhra Pradesh,Apollo Hospital,Spring,2014,3
+Parent_45,Normal,Karnataka,Max Healthcare,Summer,2018,1
+Parent_11,Normal,Rajasthan,Fortis Hospital,Winter,2018,3
+Parent_17,Assisted Vaginal,Rajasthan,Manipal Hospital,Summer,2011,1
+Parent_28,C-Section,Tamil Nadu,Fortis Hospital,Winter,2021,2
+Parent_43,Assisted Vaginal,West Bengal,Medanta,Summer,2018,1
+Parent_44,Normal,West Bengal,Narayana Health,Winter,2011,1
+Parent_0,Assisted Vaginal,Gujarat,Apollo Hospital,Winter,2015,1
+Parent_10,C-Section,Tamil Nadu,Sir Ganga Ram Hospital,Winter,2012,1
+Parent_27,Normal,Gujarat,Narayana Health,Spring,2019,1
+Parent_23,Normal,Karnataka,Manipal Hospital,Monsoon,2015,3
+Parent_12,Normal,Rajasthan,Sir Ganga Ram Hospital,Monsoon,2021,1
+Parent_36,C-Section,Andhra Pradesh,AIIMS,Winter,2011,1
+Parent_4,C-Section,Rajasthan,Manipal Hospital,Spring,2014,1
+Parent_49,Normal,Bihar,Manipal Hospital,Summer,2011,2
+Parent_14,C-Section,Madhya Pradesh,Sir Ganga Ram Hospital,Monsoon,2019,1
+Parent_11,Assisted Vaginal,Maharashtra,Medanta,Monsoon,2014,4
+Parent_5,Assisted Vaginal,Karnataka,Fortis Hospital,Monsoon,2015,1
+Parent_44,Assisted Vaginal,Rajasthan,Medanta,Winter,2014,2
+Parent_32,Assisted Vaginal,Maharashtra,AIIMS,Spring,2016,2
+Parent_30,Normal,Madhya Pradesh,Apollo Hospital,Summer,2019,2
+Parent_26,C-Section,Bihar,Apollo Hospital,Monsoon,2019,1
+Parent_41,Normal,Gujarat,Sir Ganga Ram Hospital,Monsoon,2016,2
+Parent_39,Normal,Tamil Nadu,Manipal Hospital,Winter,2011,2
+Parent_43,Assisted Vaginal,Madhya Pradesh,Sir Ganga Ram Hospital,Spring,2018,2
+Parent_42,Normal,Gujarat,Sir Ganga Ram Hospital,Spring,2021,1
+Parent_40,Normal,Maharashtra,Fortis Hospital,Spring,2015,1
+Parent_25,C-Section,Rajasthan,Medanta,Summer,2016,1
+Parent_30,Assisted Vaginal,Madhya Pradesh,Fortis Hospital,Spring,2017,3
+Parent_44,Assisted Vaginal,Uttar Pradesh,AIIMS,Spring,2013,3
+Parent_46,Assisted Vaginal,Madhya Pradesh,Fortis Hospital,Monsoon,2014,1
+Parent_43,Assisted Vaginal,West Bengal,Manipal Hospital,Winter,2021,3
+Parent_34,C-Section,Uttar Pradesh,AIIMS,Spring,2016,2
+Parent_9,C-Section,Maharashtra,Apollo Hospital,Spring,2021,2
+Parent_24,C-Section,Tamil Nadu,Narayana Health,Monsoon,2012,1
+Parent_35,C-Section,Karnataka,Max Healthcare,Monsoon,2014,1
+Parent_49,C-Section,Karnataka,Sir Ganga Ram Hospital,Spring,2019,3
+Parent_11,Normal,Rajasthan,Manipal Hospital,Monsoon,2013,5
+Parent_11,C-Section,Tamil Nadu,Sir Ganga Ram Hospital,Monsoon,2014,6
+Parent_32,C-Section,Madhya Pradesh,Fortis Hospital,Monsoon,2018,3
+Parent_33,Normal,Rajasthan,AIIMS,Spring,2014,1
+Parent_42,C-Section,Gujarat,Sir Ganga Ram Hospital,Winter,2018,2
+Parent_10,C-Section,Andhra Pradesh,Manipal Hospital,Winter,2015,2
+Parent_3,C-Section,Gujarat,Narayana Health,Monsoon,2017,1
+Parent_13,Normal,Bihar,Medanta,Spring,2011,2
+Parent_19,Assisted Vaginal,Rajasthan,Medanta,Summer,2013,1
+Parent_20,Assisted Vaginal,Karnataka,AIIMS,Summer,2020,4
+Parent_31,Assisted Vaginal,Rajasthan,Fortis Hospital,Monsoon,2013,1
+Parent_26,Assisted Vaginal,West Bengal,Sir Ganga Ram Hospital,Winter,2017,2
+Parent_11,C-Section,Andhra Pradesh,Medanta,Winter,2015,7
+Parent_7,C-Section,Andhra Pradesh,Max Healthcare,Spring,2021,2
+Parent_18,Normal,Madhya Pradesh,Medanta,Monsoon,2018,1
+Parent_11,Assisted Vaginal,Rajasthan,Fortis Hospital,Spring,2013,8
+Parent_33,C-Section,Uttar Pradesh,Apollo Hospital,Summer,2012,2
+Parent_43,C-Section,Bihar,AIIMS,Summer,2018,4
+Parent_16,Normal,Madhya Pradesh,Narayana Health,Monsoon,2014,1
+Parent_15,Assisted Vaginal,Karnataka,Fortis Hospital,Spring,2018,1
+Parent_32,Assisted Vaginal,Karnataka,Max Healthcare,Spring,2021,4
+Parent_28,Normal,Madhya Pradesh,Manipal Hospital,Monsoon,2012,3
+Parent_47,Normal,Karnataka,Apollo Hospital,Winter,2021,2
+Parent_6,Normal,Maharashtra,AIIMS,Monsoon,2012,1
+Parent_40,Normal,West Bengal,Medanta,Summer,2021,2
+Parent_0,Normal,Uttar Pradesh,AIIMS,Summer,2016,2
+Parent_0,Normal,Bihar,Max Healthcare,Winter,2012,3
+Parent_43,C-Section,Andhra Pradesh,Medanta,Spring,2016,5
+Parent_24,Assisted Vaginal,Rajasthan,Sir Ganga Ram Hospital,Winter,2020,2
+Parent_18,Normal,Uttar Pradesh,AIIMS,Spring,2014,2
+Parent_46,Assisted Vaginal,Bihar,AIIMS,Winter,2021,2
+Parent_34,Assisted Vaginal,Maharashtra,Fortis Hospital,Winter,2018,3
+Parent_26,C-Section,West Bengal,Sir Ganga Ram Hospital,Monsoon,2021,3
+Parent_32,C-Section,Bihar,Narayana Health,Summer,2016,5
+Parent_37,C-Section,Andhra Pradesh,AIIMS,Spring,2015,1
+Parent_13,C-Section,Rajasthan,Max Healthcare,Summer,2017,3
+Parent_37,C-Section,Maharashtra,Max Healthcare,Spring,2015,2
+Parent_49,Assisted Vaginal,Gujarat,Fortis Hospital,Spring,2013,4
+Parent_15,C-Section,Karnataka,Max Healthcare,Monsoon,2019,2
+Parent_10,C-Section,West Bengal,AIIMS,Winter,2018,3
+Parent_32,Assisted Vaginal,Uttar Pradesh,Manipal Hospital,Winter,2020,6
+Parent_5,Normal,Maharashtra,AIIMS,Summer,2017,2
+Parent_31,C-Section,Bihar,Apollo Hospital,Winter,2012,2
+Parent_34,Assisted Vaginal,West Bengal,Max Healthcare,Monsoon,2020,4
+Parent_36,Normal,Madhya Pradesh,AIIMS,Winter,2013,2
+Parent_24,C-Section,Andhra Pradesh,Apollo Hospital,Summer,2017,3
+Parent_32,C-Section,Tamil Nadu,AIIMS,Monsoon,2012,7
+Parent_40,Assisted Vaginal,West Bengal,AIIMS,Spring,2015,3
+Parent_1,Normal,Rajasthan,Manipal Hospital,Summer,2018,2
+Parent_18,Normal,Rajasthan,Sir Ganga Ram Hospital,Summer,2016,3
+Parent_33,C-Section,Karnataka,Max Healthcare,Monsoon,2014,3
+Parent_46,Assisted Vaginal,Maharashtra,AIIMS,Monsoon,2011,3
+Parent_47,Normal,Uttar Pradesh,Fortis Hospital,Winter,2013,3
+Parent_46,C-Section,Madhya Pradesh,Manipal Hospital,Winter,2012,4
+Parent_16,Assisted Vaginal,Maharashtra,Max Healthcare,Winter,2016,2
+Parent_7,Normal,Maharashtra,Narayana Health,Summer,2011,3
+Parent_20,C-Section,Madhya Pradesh,Narayana Health,Winter,2016,5
+Parent_49,Normal,Tamil Nadu,AIIMS,Winter,2016,5
+Parent_3,C-Section,Rajasthan,Sir Ganga Ram Hospital,Spring,2016,2
+Parent_4,Normal,Andhra Pradesh,Manipal Hospital,Summer,2012,2
+Parent_35,C-Section,Madhya Pradesh,AIIMS,Monsoon,2012,2
+Parent_23,Normal,Tamil Nadu,Narayana Health,Spring,2016,4
+Parent_8,Assisted Vaginal,Gujarat,Max Healthcare,Winter,2014,1
+Parent_22,Normal,Andhra Pradesh,Fortis Hospital,Monsoon,2014,1
+Parent_43,Normal,Gujarat,Max Healthcare,Summer,2014,6
+Parent_16,Assisted Vaginal,Andhra Pradesh,Narayana Health,Monsoon,2012,3
+Parent_24,Normal,Bihar,Narayana Health,Winter,2016,4
+Parent_49,Assisted Vaginal,Madhya Pradesh,Apollo Hospital,Spring,2020,6
+Parent_19,C-Section,Karnataka,Max Healthcare,Winter,2012,2
+Parent_37,C-Section,Uttar Pradesh,Manipal Hospital,Summer,2017,3
+Parent_34,Normal,West Bengal,Sir Ganga Ram Hospital,Spring,2011,5
+Parent_1,Normal,West Bengal,Max Healthcare,Winter,2012,3
+Parent_9,C-Section,Gujarat,Manipal Hospital,Spring,2017,3
+Parent_17,Normal,Uttar Pradesh,Fortis Hospital,Monsoon,2017,2
+Parent_14,Assisted Vaginal,Karnataka,Sir Ganga Ram Hospital,Winter,2011,2
+Parent_49,C-Section,Uttar Pradesh,Apollo Hospital,Summer,2020,7
+Parent_17,C-Section,Uttar Pradesh,Sir Ganga Ram Hospital,Monsoon,2014,3
+Parent_5,Assisted Vaginal,Maharashtra,Medanta,Summer,2019,3
+Parent_27,Normal,Madhya Pradesh,AIIMS,Winter,2016,2
+Parent_32,C-Section,Andhra Pradesh,Apollo Hospital,Summer,2015,8
+Parent_40,C-Section,Karnataka,AIIMS,Summer,2011,4
+Parent_4,Assisted Vaginal,Gujarat,Sir Ganga Ram Hospital,Monsoon,2014,3
+Parent_20,Normal,Rajasthan,AIIMS,Spring,2017,6
+Parent_37,Normal,Andhra Pradesh,Max Healthcare,Winter,2020,4
+Parent_37,Normal,Gujarat,Manipal Hospital,Spring,2016,5
+Parent_4,Assisted Vaginal,Madhya Pradesh,Manipal Hospital,Summer,2021,4
+Parent_12,Normal,Gujarat,Manipal Hospital,Summer,2013,2
+Parent_9,Normal,West Bengal,Narayana Health,Winter,2013,4
+Parent_35,Assisted Vaginal,Tamil Nadu,AIIMS,Spring,2011,3
+Parent_44,Normal,Andhra Pradesh,AIIMS,Summer,2017,4
+Parent_42,C-Section,Karnataka,Medanta,Winter,2014,3
+Parent_21,C-Section,Karnataka,Fortis Hospital,Monsoon,2018,1
+Parent_2,Assisted Vaginal,Karnataka,Max Healthcare,Spring,2011,1
+Parent_23,C-Section,Karnataka,Sir Ganga Ram Hospital,Spring,2016,5
+Parent_14,Assisted Vaginal,Uttar Pradesh,Apollo Hospital,Monsoon,2017,3
+Parent_0,Assisted Vaginal,Madhya Pradesh,Manipal Hospital,Monsoon,2018,4
+Parent_8,Normal,Andhra Pradesh,Max Healthcare,Spring,2017,2
+Parent_31,C-Section,West Bengal,AIIMS,Summer,2021,3
+Parent_6,C-Section,Madhya Pradesh,Fortis Hospital,Monsoon,2021,2
+Parent_4,Assisted Vaginal,West Bengal,AIIMS,Spring,2015,5
+Parent_32,C-Section,Uttar Pradesh,Apollo Hospital,Summer,2017,9
+Parent_46,C-Section,Tamil Nadu,Sir Ganga Ram Hospital,Spring,2017,5
+Parent_32,C-Section,Tamil Nadu,Manipal Hospital,Spring,2014,10
+Parent_1,C-Section,Tamil Nadu,Fortis Hospital,Winter,2019,4
+Parent_44,Assisted Vaginal,Bihar,Manipal Hospital,Winter,2019,5
+Parent_2,Normal,Uttar Pradesh,Medanta,Summer,2013,2
+Parent_2,Assisted Vaginal,Tamil Nadu,Apollo Hospital,Monsoon,2011,3
+Parent_23,C-Section,Gujarat,Max Healthcare,Monsoon,2017,6
+Parent_35,C-Section,Bihar,Medanta,Spring,2012,4
+Parent_16,C-Section,Bihar,AIIMS,Summer,2014,4
+Parent_5,Normal,Gujarat,Fortis Hospital,Spring,2021,4
+Parent_48,Assisted Vaginal,Karnataka,Narayana Health,Spring,2018,2
+Parent_27,Normal,Uttar Pradesh,Manipal Hospital,Spring,2021,3
+Parent_29,Normal,Maharashtra,Narayana Health,Summer,2019,1
+Parent_31,Assisted Vaginal,Madhya Pradesh,Manipal Hospital,Summer,2012,4
+Parent_47,C-Section,Madhya Pradesh,Max Healthcare,Summer,2016,4
+Parent_13,Normal,West Bengal,Narayana Health,Monsoon,2020,4
+Parent_43,Assisted Vaginal,Maharashtra,Apollo Hospital,Winter,2019,7
+Parent_12,C-Section,Gujarat,AIIMS,Spring,2019,3
+Parent_12,C-Section,Tamil Nadu,AIIMS,Monsoon,2019,4
+Parent_7,C-Section,Bihar,Fortis Hospital,Monsoon,2021,4
+Parent_41,Normal,Maharashtra,Manipal Hospital,Spring,2013,3
+Parent_27,Normal,Madhya Pradesh,Narayana Health,Monsoon,2018,4
+Parent_10,C-Section,Uttar Pradesh,Sir Ganga Ram Hospital,Monsoon,2013,4
+Parent_0,Normal,Madhya Pradesh,Narayana Health,Spring,2017,5
+Parent_27,C-Section,Uttar Pradesh,Apollo Hospital,Winter,2011,5
+Parent_49,Normal,Uttar Pradesh,Manipal Hospital,Winter,2012,8
+Parent_33,Normal,Rajasthan,AIIMS,Winter,2013,4
+Parent_45,Assisted Vaginal,Rajasthan,Max Healthcare,Summer,2011,2
+Parent_32,Normal,Tamil Nadu,Manipal Hospital,Winter,2019,11
+Parent_7,Assisted Vaginal,West Bengal,Sir Ganga Ram Hospital,Monsoon,2017,5
+Parent_8,Normal,Bihar,Sir Ganga Ram Hospital,Summer,2020,3
+Parent_41,C-Section,Karnataka,Medanta,Spring,2019,4
+Parent_15,Normal,Maharashtra,Manipal Hospital,Summer,2019,3
+Parent_49,Normal,West Bengal,Fortis Hospital,Winter,2021,9
+Parent_36,Assisted Vaginal,Uttar Pradesh,Medanta,Monsoon,2016,3
+Parent_16,Assisted Vaginal,Andhra Pradesh,Apollo Hospital,Spring,2012,5
+Parent_37,Assisted Vaginal,Maharashtra,Narayana Health,Winter,2015,6
+Parent_39,Assisted Vaginal,Madhya Pradesh,Max Healthcare,Monsoon,2018,3
+Parent_32,Assisted Vaginal,Karnataka,Sir Ganga Ram Hospital,Monsoon,2021,12
+Parent_43,Assisted Vaginal,West Bengal,Max Healthcare,Winter,2012,8
+Parent_29,Normal,West Bengal,Medanta,Monsoon,2015,2
